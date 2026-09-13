@@ -1,0 +1,17 @@
+.git
+.idea
+.mvn
+release
+node_modules
+target
+src
+ai-code-helper-frontend
+.env
+.env.*
+*.docx
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.log
